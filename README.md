@@ -8,7 +8,7 @@ The given notebook provides information on California houses and their prices in
 <br>
 The notebook utilizes various concepts in statistcs, such as simple random sampling, stratified ransom sampling, distributions, CDFs, and statiscal learning models.
 <br><br>
-## Results of the project
-Final results suggest that Random Forest with Randomized Search Cross Validation gives the most optimal result with an error of 41424.4. The precision interval of the model is [39275.4, 43467.3] and our error is roughly in the middle.
+Results of the project
+<br>Final results suggest that Random Forest with Randomized Search Cross Validation gives the most optimal result with an error of 41424.4. The precision interval of the model is [39275.4, 43467.3] and our error is roughly in the middle.
 <br><br>
 For more information please check the notebook
